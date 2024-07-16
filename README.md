@@ -4,9 +4,12 @@ This project is a personalized customer engagement chatbot built using Streamlit
 
 ## Features
 Personalized Engagement: The chatbot generates responses based on individual customer preferences and interaction history.
-### Multiple Customers: Easily manage and engage with multiple customers by selecting from a list.
-### Intuitive UI: A minimalistic and user-friendly interface built with Streamlit.
-### Customizable: Easily add or update customer data.
+### Multiple Customers: 
+Easily manage and engage with multiple customers by selecting from a list.
+### Intuitive UI: 
+A minimalistic and user-friendly interface built with Streamlit.
+### Customizable: 
+Easily add or update customer data.
 ### Prerequisites
 Python 3.7 or higher
 
