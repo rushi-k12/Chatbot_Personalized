@@ -1,0 +1,15 @@
+{
+    "model_name": "EleutherAI/gpt-neo-2.7B",
+    "customers": {
+        "customer1": {
+            "name": "John Doe",
+            "preferences": "Loves outdoor activities and adventure sports.",
+            "interaction_history": "Recently purchased camping gear."
+        },
+        "customer2": {
+            "name": "Jane Smith",
+            "preferences": "Enjoys cooking and fine dining.",
+            "interaction_history": "Recently bought a set of gourmet cookware."
+        }
+    }
+}
